@@ -4,4 +4,5 @@
 public class asddasadsdas {
 
     String a = "abrakadabra";
+    String b = "second";
 }
